@@ -24,11 +24,11 @@ Antes de começar, certifique-se de ter o seguinte instalado:
    project_react_base
 
 3. Instale as dependências do projeto:
--Com NPM:
+4. Com NPM:
    ```bash
       npm install
 
--Com Yarn:
+5. Com Yarn:
    ```bash
       yarn
 
