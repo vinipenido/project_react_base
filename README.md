@@ -1,4 +1,4 @@
-### Documentação do Projeto React Base
+### DOCUMENTAÇÃO DO PROJETO REACT BASE
 ## Descrição
 Este é um projeto base React que serve como ponto de partida para o desenvolvimento de aplicativos da web React. Ele inclui uma configuração inicial, estrutura de pastas e dependências comuns para facilitar o desenvolvimento.
 
