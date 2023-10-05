@@ -16,9 +16,8 @@ git clone https://github.com/vinipenido/project_react_base.git
 cd project_react_base
 
 - 3.Instale as dependências do projeto:
-Com npm:
+- Com npm:
 npm install
-
-Com Yarn:
+- Com Yarn:
 Yarn
 
