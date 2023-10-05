@@ -10,10 +10,10 @@ npm ou Yarn - Gerenciador de pacotes.
 
 ## Configuração Inicial
 1.Clone este repositório:
-git clone https://github.com/vinipenido/projeto_react_base.git
+git clone https://github.com/vinipenido/project_react_base.git
 
 2.Navegue até a pasta do projeto:
-cd projeto_react_base
+cd project_react_base
 
 3.Instale as dependências do projeto:
 Com npm:
