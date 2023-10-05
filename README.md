@@ -27,16 +27,16 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 
 4. Com NPM:
    ```bash
-      npm install
+   npm install
 
 5. Com Yarn:
    ```bash
-      yarn
+   yarn
 
 ## Estrutura de Pastas
 
    ```csharp
-      project_react_base/
+   project_react_base/
   ├── public/
   │   ├── index.html
   │   └── ...
@@ -49,3 +49,8 @@ Antes de começar, certifique-se de ter o seguinte instalado:
   ├── package.json
   ├── README.md
   └── ...
+
+
+
+
+
