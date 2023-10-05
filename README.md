@@ -24,6 +24,7 @@ Antes de começar, certifique-se de ter o seguinte instalado:
    project_react_base
 
 3. Instale as dependências do projeto:
+
 4. Com NPM:
    ```bash
       npm install
@@ -35,7 +36,7 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 ## Estrutura de Pastas
 
    ```csharp
-      seu-projeto-react-base/
+      project_react_base/
   ├── public/
   │   ├── index.html
   │   └── ...
