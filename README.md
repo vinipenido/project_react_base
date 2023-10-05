@@ -33,22 +33,33 @@ Antes de começar, certifique-se de ter o seguinte instalado:
    ```bash
    yarn
 
-## Estrutura de Pastas
+6. Estrutura de Pastas
 
    ```csharp
-project_react_base/
-  ├── public/
-  │   ├── index.html
-  │   └── ...
-  ├── src/
-  │   ├── components/
-  │   │   └── ...
-  │   ├── App.js
-  │   ├── index.js
-  │   └── ...
-  ├── package.json
-  ├── README.md
-  └── ...
+      project_react_base/
+   ├── public/
+   │   ├── index.html
+   │   └── ...
+   ├── src/
+   │   ├── components/
+   │   │   └── ...
+   │   ├── App.js
+   │   ├── index.js
+   │   └── ...
+   ├── package.json
+   ├── README.md
+   └── ...
+
+--A pasta public contém arquivos estáticos, como index.html, que é o ponto de entrada da aplicação.
+--A pasta src contém os componentes e lógica do aplicativo. Você pode criar subpastas e organizar seus componentes como desejar.
+
+## Scripts Disponíveis
+
+No diretório do projeto, você pode executar os seguintes scripts:
+
+--npm start ou yarn start: Inicia o aplicativo em modo de desenvolvimento.
+--npm build ou yarn build: Gera uma versão otimizada para produção do aplicativo.
+--npm test ou yarn test: Inicia os testes em modo de observação interativa.
 
 
 
