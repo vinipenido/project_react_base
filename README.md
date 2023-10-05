@@ -18,8 +18,17 @@ Antes de começar, certifique-se de ter o seguinte instalado:
    ```bash
    git clone https://github.com/vinipenido/project_react_base.git
 
-2.Navegue até a pasta do projeto:
+2. Navegue até a pasta do projeto:
 
    ```cd 
    project_react_base
+
+3. Instale as dependências do projeto:
+-Com NPM:
+   ```bash
+      npm install
+
+-Com Yarn:
+   ```bash
+      yarn
 
