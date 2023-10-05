@@ -32,3 +32,21 @@ Antes de começar, certifique-se de ter o seguinte instalado:
    ```bash
       yarn
 
+## Estrutura de Pastas
+
+   ```csharp
+      seu-projeto-react-base/
+  ├── public/
+  │   ├── index.html
+  │   └── ...
+  ├── src/
+  │   ├── components/
+  │   │   └── ...
+  │   ├── App.js
+  │   ├── index.js
+  │   └── ...
+  ├── package.json
+  ├── README.md
+  └── ...
+
+
