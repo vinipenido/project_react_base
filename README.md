@@ -48,5 +48,3 @@ Antes de começar, certifique-se de ter o seguinte instalado:
   ├── package.json
   ├── README.md
   └── ...
-
-
