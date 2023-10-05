@@ -9,15 +9,16 @@ Node.js - A versão LTS é recomendada.
 npm ou Yarn - Gerenciador de pacotes.
 
 ## Configuração Inicial
-1.Clone este repositório:
+- 1.Clone este repositório:
 git clone https://github.com/vinipenido/project_react_base.git
 
-2.Navegue até a pasta do projeto:
+- 2.Navegue até a pasta do projeto:
 cd project_react_base
 
-3.Instale as dependências do projeto:
+- 3.Instale as dependências do projeto:
 Com npm:
 npm install
+
 Com Yarn:
 Yarn
 
