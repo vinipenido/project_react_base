@@ -1,0 +1,27 @@
+.profile {
+  overflow-y: auto;
+  padding: 30px 40px;
+  border-radius: 8px;
+  background-color: #101010;
+}
+
+.section {
+  margin-top: 30px;
+}
+
+.section > .heading {
+  margin-bottom: 10px;
+}
+
+.grid {
+  display: grid;
+  gap: 15px;
+}
+
+.highlight-grid {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.playlist-grid {
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+}

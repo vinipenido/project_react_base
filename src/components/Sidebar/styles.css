@@ -1,0 +1,12 @@
+.sidebar {
+  gap: 8px;
+  display: flex;
+  flex-direction: column;
+  grid-template-rows: 0.2fr 1fr;
+}
+
+.sidebar > .library {
+  flex: 1 1 auto;
+  overflow-y: auto;
+  height: 0px;
+}
