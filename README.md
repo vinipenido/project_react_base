@@ -36,7 +36,7 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 ## Estrutura de Pastas
 
    ```csharp
-   project_react_base/
+project_react_base/
   ├── public/
   │   ├── index.html
   │   └── ...
